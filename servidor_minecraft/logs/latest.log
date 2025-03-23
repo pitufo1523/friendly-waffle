@@ -2161,3 +2161,12 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.advancem
 [23Mar2025 05:57:11.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hezielv has made the advancement [Mining]
 [23Mar2025 05:57:56.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KiritoSif has made the advancement [Acquire Hardware]
 [23Mar2025 05:58:12.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KiritoSif has made the advancement [Isn't It Iron Pick]
+[23Mar2025 06:04:07.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hezielv was slain by Cobblestone Golem
+[23Mar2025 06:08:02.562] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hezielv lost connection: Disconnected
+[23Mar2025 06:08:02.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hezielv left the game
+[23Mar2025 06:08:43.454] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KiritoSif lost connection: Disconnected
+[23Mar2025 06:08:43.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KiritoSif left the game
+[23Mar2025 06:09:48.158] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KiritoSif[/127.115.52.211:41427] logged in with entity id 13979 at (45.69999998807907, 9.0, -459.09219376443787)
+[23Mar2025 06:09:48.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KiritoSif joined the game
+[23Mar2025 06:12:01.851] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KiritoSif lost connection: Disconnected
+[23Mar2025 06:12:01.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KiritoSif left the game

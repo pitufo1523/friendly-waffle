@@ -2182,3 +2182,9 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.advancem
 [23Mar2025 06:26:22.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KiritoSif has made the advancement [Mining 3]
 [23Mar2025 06:26:35.418] [Worker-Main-66/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
 [23Mar2025 06:27:59.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hezielv has made the advancement [Mining 2]
+[23Mar2025 06:37:13.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hezielv has made the advancement [Mining 3]
+[23Mar2025 06:37:40.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KiritoSif has made the advancement [Combat 2]
+[23Mar2025 06:38:58.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hezielv has made the advancement [Isn't It Iron Pick]
+[23Mar2025 06:40:02.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KiritoSif has made the advancement [Sweet Dreams]
+[23Mar2025 06:40:10.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KiritoSif> e
+[23Mar2025 06:42:05.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hezielv was slain by Zombie

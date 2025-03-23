@@ -1783,3 +1783,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [23Mar2025 07:24:07.691] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
 [23Mar2025 07:25:30.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KiritoSif hit the ground too hard
 [23Mar2025 07:26:02.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hezielv has made the advancement [Combat 2]
+[23Mar2025 07:27:36.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hezielv was slain by Cecaelia
+[23Mar2025 07:27:44.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KiritoSif was slain by Cecaelia
+[23Mar2025 07:30:20.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KiritoSif has made the advancement [Reaping What You Sow]
+[23Mar2025 07:32:01.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hezielv has made the advancement [Rotten to the Core]
+[23Mar2025 07:32:16.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hezielv has made the advancement [Combat 3]
+[23Mar2025 07:33:06.952] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[23Mar2025 07:33:25.425] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=221, y=-36, z=-765}
+[23Mar2025 07:33:35.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KiritoSif has made the advancement [We do a little trolling...]
+[23Mar2025 07:35:56.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KiritoSif has made the advancement [Combat 3]

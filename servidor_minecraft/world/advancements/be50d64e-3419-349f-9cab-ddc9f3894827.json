@@ -7,8 +7,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2025-03-23 07:24:29 +0000",
       "minecraft:sparse_jungle": "2025-03-22 09:03:25 +0000",
       "minecraft:river": "2025-03-23 05:37:04 +0000",
+      "minecraft:stony_shore": "2025-03-23 07:24:56 +0000",
       "minecraft:forest": "2025-03-23 05:46:47 +0000",
       "minecraft:jungle": "2025-03-23 07:11:40 +0000",
       "minecraft:plains": "2025-03-23 05:44:55 +0000"
@@ -1175,6 +1177,7 @@
       "chicken": "2025-03-23 05:35:34 +0000",
       "cooked_mutton": "2025-03-23 05:58:56 +0000",
       "cooked_beef": "2025-03-23 05:42:08 +0000",
+      "beef": "2025-03-23 07:25:08 +0000",
       "porkchop": "2025-03-23 05:22:36 +0000",
       "mutton": "2025-03-23 05:33:47 +0000",
       "cooked_chicken": "2025-03-23 05:40:43 +0000"
@@ -4338,9 +4341,21 @@
     },
     "done": true
   },
+  "spartanweaponry:scythe": {
+    "criteria": {
+      "has_scythe": "2025-03-23 07:30:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-03-23 07:09:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/netherite_arrow": {
+    "criteria": {
+      "has_bow": "2025-03-23 07:22:51 +0000"
     },
     "done": true
   },
@@ -4353,6 +4368,18 @@
   "betterskills:foraging_2": {
     "criteria": {
       "foraging_2_0": "2025-03-23 07:11:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-03-23 07:22:51 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:root": {
+    "criteria": {
+      "has_pole": "2025-03-23 07:30:15 +0000"
     },
     "done": true
   },

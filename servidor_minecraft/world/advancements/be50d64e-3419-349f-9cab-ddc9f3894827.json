@@ -4397,9 +4397,21 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/white_warped_table": {
+    "criteria": {
+      "has_white_carpet": "2025-03-23 07:58:55 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/pink_upholstered_birch_chair": {
     "criteria": {
       "has_pink_wool": "2025-03-23 07:39:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_mangrove_table": {
+    "criteria": {
+      "has_white_carpet": "2025-03-23 07:58:55 +0000"
     },
     "done": true
   },
@@ -4577,9 +4589,21 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/white_dark_oak_table": {
+    "criteria": {
+      "has_white_carpet": "2025-03-23 07:58:55 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/pink_acacia_chair": {
     "criteria": {
       "has_pink_wool": "2025-03-23 07:39:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_jungle_table": {
+    "criteria": {
+      "has_white_carpet": "2025-03-23 07:58:55 +0000"
     },
     "done": true
   },
@@ -4673,6 +4697,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/white_birch_table": {
+    "criteria": {
+      "has_white_carpet": "2025-03-23 07:58:55 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/pink_upholstered_mangrove_stool": {
     "criteria": {
       "has_pink_wool": "2025-03-23 07:39:19 +0000"
@@ -4694,6 +4724,12 @@
   "valhelsia_furniture:recipes/decorations/black_upholstered_spruce_chair": {
     "criteria": {
       "has_black_wool": "2025-03-23 07:39:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_spruce_table": {
+    "criteria": {
+      "has_white_carpet": "2025-03-23 07:58:55 +0000"
     },
     "done": true
   },
@@ -4721,6 +4757,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/white_oak_table": {
+    "criteria": {
+      "has_white_carpet": "2025-03-23 07:58:55 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/black_upholstered_spruce_stool": {
     "criteria": {
       "has_black_wool": "2025-03-23 07:39:25 +0000"
@@ -4739,6 +4781,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/white_cherry_table": {
+    "criteria": {
+      "has_white_carpet": "2025-03-23 07:58:55 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/black_upholstered_warped_stool": {
     "criteria": {
       "has_black_wool": "2025-03-23 07:39:25 +0000"
@@ -4748,6 +4796,12 @@
   "valhelsia_furniture:recipes/decorations/black_dark_oak_chair": {
     "criteria": {
       "has_black_wool": "2025-03-23 07:39:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_crimson_table": {
+    "criteria": {
+      "has_white_carpet": "2025-03-23 07:58:55 +0000"
     },
     "done": true
   },
@@ -4796,6 +4850,12 @@
   "valhelsia_furniture:recipes/decorations/pink_dark_oak_chair": {
     "criteria": {
       "has_pink_wool": "2025-03-23 07:39:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_acacia_table": {
+    "criteria": {
+      "has_white_carpet": "2025-03-23 07:58:55 +0000"
     },
     "done": true
   },

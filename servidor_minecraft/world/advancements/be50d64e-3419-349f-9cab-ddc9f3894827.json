@@ -10,6 +10,7 @@
       "minecraft:beach": "2025-03-23 07:24:29 +0000",
       "minecraft:sparse_jungle": "2025-03-22 09:03:25 +0000",
       "minecraft:river": "2025-03-23 05:37:04 +0000",
+      "minecraft:lukewarm_ocean": "2025-03-23 07:35:30 +0000",
       "minecraft:stony_shore": "2025-03-23 07:24:56 +0000",
       "minecraft:forest": "2025-03-23 05:46:47 +0000",
       "minecraft:jungle": "2025-03-23 07:11:40 +0000",
@@ -4341,9 +4342,81 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_oak_stool": {
+    "criteria": {
+      "has_black_wool": "2025-03-23 07:39:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_black_wool": "2025-03-23 07:39:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_birch_stool": {
+    "criteria": {
+      "has_pink_wool": "2025-03-23 07:39:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_cherry_chair": {
+    "criteria": {
+      "has_black_wool": "2025-03-23 07:39:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_crimson_stool": {
+    "criteria": {
+      "has_black_wool": "2025-03-23 07:39:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_dark_oak_chair": {
+    "criteria": {
+      "has_black_wool": "2025-03-23 07:39:25 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:scythe": {
     "criteria": {
       "has_scythe": "2025-03-23 07:30:20 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_black_wool": "2025-03-23 07:39:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-03-23 07:39:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_birch_chair": {
+    "criteria": {
+      "has_pink_wool": "2025-03-23 07:39:19 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/minotaurus": {
+    "criteria": {
+      "kill": "2025-03-23 07:42:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-03-23 07:42:14 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_crimson_chair": {
+    "criteria": {
+      "has_black_wool": "2025-03-23 07:39:25 +0000"
     },
     "done": true
   },
@@ -4365,9 +4438,105 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_mangrove_chair": {
+    "criteria": {
+      "has_black_wool": "2025-03-23 07:39:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_spruce_chair": {
+    "criteria": {
+      "has_pink_wool": "2025-03-23 07:39:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_spruce_chair": {
+    "criteria": {
+      "has_pink_wool": "2025-03-23 07:39:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_spruce_chair": {
+    "criteria": {
+      "has_black_wool": "2025-03-23 07:39:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_cherry_chair": {
+    "criteria": {
+      "has_pink_wool": "2025-03-23 07:39:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_birch_chair": {
+    "criteria": {
+      "has_pink_wool": "2025-03-23 07:39:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_birch_chair": {
+    "criteria": {
+      "has_black_wool": "2025-03-23 07:39:25 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/pink_sleeping_bag": {
+    "criteria": {
+      "has_pink_wool": "2025-03-23 07:39:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-03-23 07:39:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_birch_stool": {
+    "criteria": {
+      "has_black_wool": "2025-03-23 07:39:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_spruce_stool": {
+    "criteria": {
+      "has_pink_wool": "2025-03-23 07:39:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_acacia_chair": {
+    "criteria": {
+      "has_pink_wool": "2025-03-23 07:39:19 +0000"
+    },
+    "done": true
+  },
   "betterskills:foraging_2": {
     "criteria": {
       "foraging_2_0": "2025-03-23 07:11:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2025-03-23 07:39:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_acacia_chair": {
+    "criteria": {
+      "has_black_wool": "2025-03-23 07:39:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_acacia_stool": {
+    "criteria": {
+      "has_pink_wool": "2025-03-23 07:39:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2025-03-23 07:42:14 +0000"
     },
     "done": true
   },
@@ -4377,15 +4546,273 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/pink_crimson_chair": {
+    "criteria": {
+      "has_pink_wool": "2025-03-23 07:39:19 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:root": {
     "criteria": {
       "has_pole": "2025-03-23 07:30:15 +0000"
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_acacia_stool": {
+    "criteria": {
+      "has_black_wool": "2025-03-23 07:39:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_mangrove_chair": {
+    "criteria": {
+      "has_pink_wool": "2025-03-23 07:39:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_cherry_chair": {
+    "criteria": {
+      "has_black_wool": "2025-03-23 07:39:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_acacia_chair": {
+    "criteria": {
+      "has_pink_wool": "2025-03-23 07:39:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_cherry_stool": {
+    "criteria": {
+      "has_pink_wool": "2025-03-23 07:39:19 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2025-03-23 07:33:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2025-03-23 07:39:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_cherry_chair": {
+    "criteria": {
+      "has_pink_wool": "2025-03-23 07:39:19 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/hay": {
     "criteria": {
       "has_wheat": "2025-03-23 07:09:08 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_curtain": {
+    "criteria": {
+      "has_item": "2025-03-23 07:39:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_crimson_chair": {
+    "criteria": {
+      "has_pink_wool": "2025-03-23 07:39:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_crimson_stool": {
+    "criteria": {
+      "has_pink_wool": "2025-03-23 07:39:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_cherry_stool": {
+    "criteria": {
+      "has_black_wool": "2025-03-23 07:39:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-03-23 07:42:14 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_pink_wool": "2025-03-23 07:39:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_acacia_chair": {
+    "criteria": {
+      "has_black_wool": "2025-03-23 07:39:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_fabric_desk_lamp": {
+    "criteria": {
+      "has_black_wool": "2025-03-23 07:39:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_mangrove_chair": {
+    "criteria": {
+      "has_pink_wool": "2025-03-23 07:39:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_mangrove_chair": {
+    "criteria": {
+      "has_black_wool": "2025-03-23 07:39:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_pink_wool": "2025-03-23 07:39:19 +0000"
+    },
+    "done": true
+  },
+  "betterskills:combat_3": {
+    "criteria": {
+      "combat_3_0": "2025-03-23 07:35:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-03-23 07:39:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_spruce_chair": {
+    "criteria": {
+      "has_black_wool": "2025-03-23 07:39:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_dark_oak_chair": {
+    "criteria": {
+      "has_pink_wool": "2025-03-23 07:39:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_fabric_desk_lamp": {
+    "criteria": {
+      "has_pink_wool": "2025-03-23 07:39:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_birch_chair": {
+    "criteria": {
+      "has_black_wool": "2025-03-23 07:39:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_oak_stool": {
+    "criteria": {
+      "has_pink_wool": "2025-03-23 07:39:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_spruce_stool": {
+    "criteria": {
+      "has_black_wool": "2025-03-23 07:39:25 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/black_sleeping_bag": {
+    "criteria": {
+      "has_black_wool": "2025-03-23 07:39:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_jungle_stool": {
+    "criteria": {
+      "has_pink_wool": "2025-03-23 07:39:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_warped_stool": {
+    "criteria": {
+      "has_black_wool": "2025-03-23 07:39:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_dark_oak_chair": {
+    "criteria": {
+      "has_black_wool": "2025-03-23 07:39:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_curtain": {
+    "criteria": {
+      "has_item": "2025-03-23 07:39:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_warped_chair": {
+    "criteria": {
+      "has_pink_wool": "2025-03-23 07:39:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_warped_chair": {
+    "criteria": {
+      "has_pink_wool": "2025-03-23 07:39:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2025-03-23 07:39:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_crimson_chair": {
+    "criteria": {
+      "has_black_wool": "2025-03-23 07:39:25 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/harpy": {
+    "criteria": {
+      "kill": "2025-03-23 07:41:44 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_jungle_stool": {
+    "criteria": {
+      "has_black_wool": "2025-03-23 07:39:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_dark_oak_chair": {
+    "criteria": {
+      "has_pink_wool": "2025-03-23 07:39:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_warped_chair": {
+    "criteria": {
+      "has_black_wool": "2025-03-23 07:39:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_warped_stool": {
+    "criteria": {
+      "has_pink_wool": "2025-03-23 07:39:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_warped_chair": {
+    "criteria": {
+      "has_black_wool": "2025-03-23 07:39:25 +0000"
     },
     "done": true
   },

@@ -2610,6 +2610,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-03-23 07:40:57 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/pink_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-03-23 07:13:58 +0000"
@@ -2833,6 +2839,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-03-23 07:34:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-03-23 07:13:58 +0000"
@@ -2884,6 +2896,12 @@
   "valhelsia_furniture:recipes/decorations/orange_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-03-23 07:13:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-03-23 07:34:16 +0000"
     },
     "done": true
   },

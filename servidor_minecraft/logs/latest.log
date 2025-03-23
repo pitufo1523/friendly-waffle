@@ -2188,3 +2188,5 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.advancem
 [23Mar2025 06:40:02.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KiritoSif has made the advancement [Sweet Dreams]
 [23Mar2025 06:40:10.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KiritoSif> e
 [23Mar2025 06:42:05.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hezielv was slain by Zombie
+[23Mar2025 06:44:52.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hezielv was slain by Zombie
+[23Mar2025 06:52:33.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hezielv has made the advancement [Foraging 2]

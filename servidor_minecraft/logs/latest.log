@@ -2190,3 +2190,9 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.advancem
 [23Mar2025 06:42:05.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hezielv was slain by Zombie
 [23Mar2025 06:44:52.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hezielv was slain by Zombie
 [23Mar2025 06:52:33.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hezielv has made the advancement [Foraging 2]
+[23Mar2025 07:01:21.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hezielv was slain by Zombie
+[23Mar2025 07:01:48.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KiritoSif was slain by Shaman
+[23Mar2025 07:03:32.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hezielv was slain by Shaman
+[23Mar2025 07:03:36.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KiritoSif was slain by Shaman
+[23Mar2025 07:03:44.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KiritoSif was slain by Shaman
+[23Mar2025 07:03:55.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hezielv was slain by Zombie

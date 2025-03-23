@@ -2574,15 +2574,45 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/golden_rapier": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 07:51:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_halberd": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 07:51:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_dagger": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 07:51:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-03-23 07:31:19 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 07:51:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-03-23 07:13:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 07:51:37 +0000"
     },
     "done": true
   },
@@ -2595,6 +2625,36 @@
   "valhelsia_furniture:recipes/decorations/oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-03-23 07:13:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 07:51:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 07:51:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 07:51:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 07:51:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_lance": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 07:51:37 +0000"
     },
     "done": true
   },
@@ -2613,6 +2673,30 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-03-23 07:40:57 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_battle_hammer": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 07:51:37 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/tools/golden_blacksmith_gavel": {
+    "criteria": {
+      "has_ingots/gold": "2025-03-23 07:51:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 07:51:37 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 07:51:37 +0000"
     },
     "done": true
   },
@@ -2640,6 +2724,24 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/golden_pike": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 07:51:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 07:51:37 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/tools/sanity_meter": {
+    "criteria": {
+      "has_ingots/gold": "2025-03-23 07:51:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-03-23 07:22:50 +0000"
@@ -2655,6 +2757,30 @@
   "valhelsia_furniture:recipes/decorations/brown_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-03-23 07:13:58 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_longsword": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 07:51:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_scythe": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 07:51:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_glaive": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 07:51:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/medium_quiver_brace": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 07:51:37 +0000"
     },
     "done": true
   },
@@ -2694,15 +2820,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 07:51:37 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/light_blue_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-03-23 07:13:58 +0000"
     },
     "done": true
   },
+  "spartanshields:recipes/golden_tower_shield": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 07:51:37 +0000"
+    },
+    "done": true
+  },
+  "betterskills:mining_4": {
+    "criteria": {
+      "mining_4_0": "2025-03-23 07:45:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 07:51:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_warhammer": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 07:51:37 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/purple_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-03-23 07:13:58 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_longbow": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 07:51:37 +0000"
     },
     "done": true
   },
@@ -2718,9 +2880,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/golden_flanged_mace": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 07:51:37 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/lime_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-03-23 07:13:58 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_heavy_crossbow": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 07:51:37 +0000"
     },
     "done": true
   },
@@ -2754,6 +2928,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/golden_spear": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 07:51:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-03-23 07:13:58 +0000"
@@ -2766,9 +2946,27 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/golden_battleaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 07:51:37 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
     "criteria": {
       "has_raw_silver": "2025-03-23 07:22:23 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_throwing_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 07:51:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 07:51:37 +0000"
     },
     "done": true
   },
@@ -2784,6 +2982,12 @@
       "rainforest": "2025-03-23 07:24:19 +0000"
     },
     "done": false
+  },
+  "spartanweaponry:recipes/golden_saber": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 07:51:37 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
@@ -2803,6 +3007,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/golden_greatsword": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 07:51:37 +0000"
+    },
+    "done": true
+  },
   "betterskills:combat_2": {
     "criteria": {
       "combat_2_0": "2025-03-23 07:26:02 +0000"
@@ -2818,6 +3028,12 @@
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2025-03-23 07:22:02 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_quarterstaff": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 07:51:37 +0000"
     },
     "done": true
   },
@@ -2845,6 +3061,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/golden_javelin": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 07:51:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-03-23 07:13:58 +0000"
@@ -2857,9 +3079,33 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/golden_parrying_dagger": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 07:51:37 +0000"
+    },
+    "done": true
+  },
+  "netherdungeons:recipes/crafting/gold_chain": {
+    "criteria": {
+      "has_items": "2025-03-23 07:51:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_boomerang": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 07:51:37 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/pink_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-03-23 07:13:58 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/golden_basic_shield": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 07:51:37 +0000"
     },
     "done": true
   },
@@ -2878,6 +3124,12 @@
   "valhelsia_furniture:recipes/decorations/oak_desk_drawer": {
     "criteria": {
       "has_oak_planks": "2025-03-23 07:13:58 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/deorum_ingot": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 07:51:37 +0000"
     },
     "done": true
   },
@@ -2935,6 +3187,30 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/golden_katana": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 07:51:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_tomahawk": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 07:51:37 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold_tier_upgrade": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 07:51:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 07:51:37 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/magenta_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-03-23 07:13:58 +0000"
@@ -2944,6 +3220,12 @@
   "valhelsia_furniture:recipes/decorations/green_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-03-23 07:13:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-23 07:51:37 +0000"
     },
     "done": true
   },

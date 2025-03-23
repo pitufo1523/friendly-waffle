@@ -2298,7 +2298,8 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "woodland": "2025-03-23 05:46:58 +0000",
-      "scrubland": "2025-03-23 06:25:09 +0000"
+      "scrubland": "2025-03-23 06:25:09 +0000",
+      "old_growth_woodland": "2025-03-23 07:43:15 +0000"
     },
     "done": false
   },

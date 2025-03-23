@@ -4368,6 +4368,24 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_katana": {
+    "criteria": {
+      "has_diamond": "2025-03-23 08:17:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_parrying_dagger": {
+    "criteria": {
+      "has_diamond": "2025-03-23 08:17:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_quarterstaff": {
+    "criteria": {
+      "has_diamond": "2025-03-23 08:17:37 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/black_upholstered_crimson_stool": {
     "criteria": {
       "has_black_wool": "2025-03-23 07:39:25 +0000"
@@ -4377,6 +4395,30 @@
   "valhelsia_furniture:recipes/decorations/black_upholstered_dark_oak_chair": {
     "criteria": {
       "has_black_wool": "2025-03-23 07:39:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/huge_quiver_brace": {
+    "criteria": {
+      "has_diamond": "2025-03-23 08:17:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-03-23 08:17:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-03-23 08:17:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-03-23 08:17:37 +0000"
     },
     "done": true
   },
@@ -4398,6 +4440,18 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_tomahawk": {
+    "criteria": {
+      "has_diamond": "2025-03-23 08:17:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_warhammer": {
+    "criteria": {
+      "has_diamond": "2025-03-23 08:17:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2025-03-23 07:39:25 +0000"
@@ -4407,6 +4461,12 @@
   "valhelsia_furniture:recipes/decorations/white_warped_table": {
     "criteria": {
       "has_white_carpet": "2025-03-23 07:58:55 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/diamond_basic_shield": {
+    "criteria": {
+      "has_diamond": "2025-03-23 08:17:37 +0000"
     },
     "done": true
   },
@@ -4428,9 +4488,27 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_javelin": {
+    "criteria": {
+      "has_diamond": "2025-03-23 08:17:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-03-23 07:42:14 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_battleaxe": {
+    "criteria": {
+      "has_diamond": "2025-03-23 08:17:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-03-23 08:17:37 +0000"
     },
     "done": true
   },
@@ -4464,6 +4542,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-03-23 08:17:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-03-23 08:17:37 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/black_upholstered_mangrove_chair": {
     "criteria": {
       "has_black_wool": "2025-03-23 07:39:25 +0000"
@@ -4473,6 +4563,12 @@
   "valhelsia_furniture:recipes/decorations/pink_spruce_chair": {
     "criteria": {
       "has_pink_wool": "2025-03-23 07:39:19 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_flanged_mace": {
+    "criteria": {
+      "has_diamond": "2025-03-23 08:17:37 +0000"
     },
     "done": true
   },
@@ -4506,6 +4602,18 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_pike": {
+    "criteria": {
+      "has_diamond": "2025-03-23 08:17:37 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/diamond_tier_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-03-23 08:17:37 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/pink_birch_chair": {
     "criteria": {
       "has_pink_wool": "2025-03-23 07:39:19 +0000"
@@ -4515,6 +4623,12 @@
   "valhelsia_furniture:recipes/decorations/black_upholstered_birch_chair": {
     "criteria": {
       "has_black_wool": "2025-03-23 07:39:25 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:recipes/misc/quill": {
+    "criteria": {
+      "has_diamond": "2025-03-23 08:17:37 +0000"
     },
     "done": true
   },
@@ -4548,6 +4662,18 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_halberd": {
+    "criteria": {
+      "has_diamond": "2025-03-23 08:17:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_longbow": {
+    "criteria": {
+      "has_diamond": "2025-03-23 08:17:37 +0000"
+    },
+    "done": true
+  },
   "betterskills:foraging_2": {
     "criteria": {
       "foraging_2_0": "2025-03-23 07:11:54 +0000"
@@ -4560,9 +4686,27 @@
     },
     "done": false
   },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-03-23 08:17:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_greatsword": {
+    "criteria": {
+      "has_diamond": "2025-03-23 08:17:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_bed": {
     "criteria": {
       "has_pink_wool": "2025-03-23 07:39:19 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_lance": {
+    "criteria": {
+      "has_diamond": "2025-03-23 08:17:37 +0000"
     },
     "done": true
   },
@@ -4575,6 +4719,12 @@
   "valhelsia_furniture:recipes/decorations/pink_upholstered_acacia_stool": {
     "criteria": {
       "has_pink_wool": "2025-03-23 07:39:19 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_longsword": {
+    "criteria": {
+      "has_diamond": "2025-03-23 08:17:37 +0000"
     },
     "done": true
   },
@@ -4596,6 +4746,12 @@
     },
     "done": true
   },
+  "betterskills:mining_4": {
+    "criteria": {
+      "mining_4_0": "2025-03-23 08:14:39 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:root": {
     "criteria": {
       "has_pole": "2025-03-23 07:30:15 +0000"
@@ -4605,6 +4761,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-03-23 08:09:37 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond": "2025-03-23 08:17:37 +0000"
     },
     "done": true
   },
@@ -4638,9 +4800,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-03-23 08:17:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_battle_hammer": {
+    "criteria": {
+      "has_diamond": "2025-03-23 08:17:37 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/white_jungle_table": {
     "criteria": {
       "has_white_carpet": "2025-03-23 07:58:55 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_throwing_knife": {
+    "criteria": {
+      "has_diamond": "2025-03-23 08:17:37 +0000"
     },
     "done": true
   },
@@ -4662,15 +4842,51 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_dagger": {
+    "criteria": {
+      "has_diamond": "2025-03-23 08:17:37 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/pink_upholstered_cherry_chair": {
     "criteria": {
       "has_pink_wool": "2025-03-23 07:39:19 +0000"
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-03-23 08:17:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_glaive": {
+    "criteria": {
+      "has_diamond": "2025-03-23 08:17:37 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold_smithing": {
+    "criteria": {
+      "has_gold": "2025-03-23 08:16:18 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/hay": {
     "criteria": {
       "has_wheat": "2025-03-23 07:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-03-23 08:17:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_spear": {
+    "criteria": {
+      "has_diamond": "2025-03-23 08:17:37 +0000"
     },
     "done": true
   },
@@ -4716,9 +4932,27 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_saber": {
+    "criteria": {
+      "has_diamond": "2025-03-23 08:17:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/large_quiver_brace": {
+    "criteria": {
+      "has_diamond": "2025-03-23 08:17:37 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/black_upholstered_acacia_chair": {
     "criteria": {
       "has_black_wool": "2025-03-23 07:39:25 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/tools/diamond_blacksmith_gavel": {
+    "criteria": {
+      "has_gems/diamond": "2025-03-23 08:17:37 +0000"
     },
     "done": true
   },
@@ -4734,9 +4968,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_boomerang": {
+    "criteria": {
+      "has_diamond": "2025-03-23 08:17:37 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/black_mangrove_chair": {
     "criteria": {
       "has_black_wool": "2025-03-23 07:39:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_scythe": {
+    "criteria": {
+      "has_diamond": "2025-03-23 08:17:37 +0000"
     },
     "done": true
   },
@@ -4761,6 +5007,12 @@
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2025-03-23 07:39:25 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/diamond_tower_shield": {
+    "criteria": {
+      "has_diamond": "2025-03-23 08:17:37 +0000"
     },
     "done": true
   },
@@ -4824,6 +5076,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-03-23 08:17:37 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/redstone": {
     "criteria": {
       "has_redstone": "2025-03-23 08:09:37 +0000"
@@ -4833,6 +5091,12 @@
   "valhelsia_furniture:recipes/decorations/pink_upholstered_jungle_stool": {
     "criteria": {
       "has_pink_wool": "2025-03-23 07:39:19 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_heavy_crossbow": {
+    "criteria": {
+      "has_diamond": "2025-03-23 08:17:37 +0000"
     },
     "done": true
   },
@@ -4878,6 +5142,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_rapier": {
+    "criteria": {
+      "has_diamond": "2025-03-23 08:17:37 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/pink_warped_chair": {
     "criteria": {
       "has_pink_wool": "2025-03-23 07:39:19 +0000"
@@ -4905,6 +5175,12 @@
   "valhelsia_furniture:recipes/decorations/black_upholstered_jungle_stool": {
     "criteria": {
       "has_black_wool": "2025-03-23 07:39:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-03-23 08:17:37 +0000"
     },
     "done": true
   },

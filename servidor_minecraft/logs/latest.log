@@ -2170,3 +2170,12 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.advancem
 [23Mar2025 06:09:48.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KiritoSif joined the game
 [23Mar2025 06:12:01.851] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KiritoSif lost connection: Disconnected
 [23Mar2025 06:12:01.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KiritoSif left the game
+[23Mar2025 06:14:22.858] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KiritoSif[/127.115.52.211:47399] logged in with entity id 14422 at (45.69999998807907, 9.0, -459.09219376443787)
+[23Mar2025 06:14:22.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KiritoSif joined the game
+[23Mar2025 06:16:04.154] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@33b511f3[id=<null>,name=hezielv,properties={},legacy=false] (/127.84.60.121:34509) lost connection: Disconnected
+[23Mar2025 06:16:14.212] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hezielv[/127.84.60.121:37009] logged in with entity id 14757 at (43.82890170539592, 63.0, -171.4933425974336)
+[23Mar2025 06:16:14.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hezielv joined the game
+[23Mar2025 06:19:50.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KiritoSif was fireballed by Flesh Lich
+[23Mar2025 06:20:25.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KiritoSif was fireballed by Flesh Lich
+[23Mar2025 06:20:53.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KiritoSif was burnt to a crisp whilst fighting Flesh Lich
+[23Mar2025 06:22:45.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hezielv has made the advancement [Acquire Hardware]

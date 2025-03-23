@@ -1671,9 +1671,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blast_furnace": {
+  "grimoireofgaia:recipes/decorations/pearl_block": {
     "criteria": {
-      "has_smooth_stone": "2025-03-23 06:02:03 +0000"
+      "has_shiny_pearl": "2025-03-23 05:43:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-03-23 05:46:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-03-23 05:46:13 +0000"
     },
     "done": true
   },
@@ -1725,27 +1737,27 @@
     },
     "done": true
   },
-  "betterskills:mining_1": {
-    "criteria": {
-      "mining_1_0": "2025-03-23 05:57:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_logs": "2025-03-23 05:46:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-23 05:56:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_wood": {
+  "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
-      "has_log": "2025-03-23 05:46:13 +0000"
+      "has_granite": "2025-03-23 05:56:37 +0000"
+    },
+    "done": true
+  },
+  "betterskills:mining_1": {
+    "criteria": {
+      "mining_1_0": "2025-03-23 05:57:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-03-23 06:02:03 +0000"
     },
     "done": true
   },
@@ -1758,18 +1770,6 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-03-23 06:02:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite": {
-    "criteria": {
-      "has_granite": "2025-03-23 05:56:37 +0000"
-    },
-    "done": true
-  },
-  "grimoireofgaia:recipes/decorations/pearl_block": {
-    "criteria": {
-      "has_shiny_pearl": "2025-03-23 05:43:47 +0000"
     },
     "done": true
   },

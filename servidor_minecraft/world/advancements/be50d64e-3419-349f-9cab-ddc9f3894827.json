@@ -5230,15 +5230,166 @@
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/oak_stool": {
+  "grimoireofgaia:main/deathword": {
     "criteria": {
-      "has_oak_slab": "2025-03-23 09:15:11 +0000"
+      "kill": "2025-03-23 08:30:27 +0000"
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/hay_warped_chair": {
+  "minecraft:recipes/redstone/lectern": {
     "criteria": {
-      "has_hay_block": "2025-03-23 10:48:42 +0000"
+      "has_book": "2025-03-23 08:31:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-03-23 08:31:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-23 08:31:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-23 08:31:19 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-23 08:31:19 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:collect_heads": {
+    "criteria": {
+      "creeper_head": "2025-03-23 08:44:32 +0000",
+      "skeleton_skull": "2025-03-23 08:35:19 +0000"
+    },
+    "done": false
+  },
+  "betterskills:combat_4": {
+    "criteria": {
+      "combat_4_0": "2025-03-23 08:36:43 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/mimic": {
+    "criteria": {
+      "kill": "2025-03-23 08:36:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-03-23 08:38:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-03-23 08:38:14 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/iron_ingot_from_clibano_combusting": {
+    "criteria": {
+      "has_item": "2025-03-23 08:38:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-03-23 08:42:33 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2025-03-23 08:44:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-03-23 08:44:32 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/explosive_charge": {
+    "criteria": {
+      "has_gunpowder": "2025-03-23 08:44:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2025-03-23 08:44:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-03-23 08:44:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-03-23 08:47:36 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/blueprint_table": {
+    "criteria": {
+      "has_paper": "2025-03-23 08:47:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-03-23 08:47:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-03-23 08:52:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-03-23 08:54:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-03-23 09:04:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-03-23 09:04:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-03-23 09:04:07 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/melon": {
+    "criteria": {
+      "has_melon_slice": "2025-03-23 09:04:07 +0000"
     },
     "done": true
   },
@@ -5254,21 +5405,57 @@
     },
     "done": true
   },
-  "grimoireofgaia:main/deathword": {
+  "travelersbackpack:recipes/misc/ocelot": {
     "criteria": {
-      "kill": "2025-03-23 08:30:27 +0000"
+      "has_cod": "2025-03-23 09:08:24 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/creeper": {
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
-      "has_gunpowder": "2025-03-23 08:44:32 +0000"
+      "has_cod": "2025-03-23 09:08:24 +0000"
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/hay_birch_chair": {
+  "minecraft:recipes/food/cooked_cod": {
     "criteria": {
-      "has_hay_block": "2025-03-23 10:48:42 +0000"
+      "has_cod": "2025-03-23 09:08:24 +0000"
+    },
+    "done": true
+  },
+  "betterskills:fishing_1": {
+    "criteria": {
+      "fishing_1_0": "2025-03-23 09:09:02 +0000"
+    },
+    "done": true
+  },
+  "betterskills:fishing_2": {
+    "criteria": {
+      "fishing_2_0": "2025-03-23 09:11:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-03-23 09:12:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-03-23 09:12:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-03-23 09:12:17 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-03-23 09:15:11 +0000"
     },
     "done": true
   },
@@ -5278,39 +5465,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/lectern": {
-    "criteria": {
-      "has_book": "2025-03-23 08:31:19 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/ghost_chest": {
-    "criteria": {
-      "has_item": "2025-03-23 10:55:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/writable_book": {
-    "criteria": {
-      "has_book": "2025-03-23 08:31:19 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/yellow_upholstered_oak_stool": {
     "criteria": {
       "has_oak_slab": "2025-03-23 09:15:11 +0000"
-    },
-    "done": true
-  },
-  "betterskills:farming_1": {
-    "criteria": {
-      "farming_1_0": "2025-03-23 09:47:55 +0000"
-    },
-    "done": true
-  },
-  "betterskills:farming_2": {
-    "criteria": {
-      "farming_2_0": "2025-03-23 10:24:40 +0000"
     },
     "done": true
   },
@@ -5320,9 +5477,99 @@
     },
     "done": true
   },
-  "grimoireofgaia:main/cobblestone_golem": {
+  "valhelsia_furniture:recipes/decorations/lime_upholstered_oak_stool": {
     "criteria": {
-      "kill": "2025-03-23 10:58:42 +0000"
+      "has_oak_slab": "2025-03-23 09:15:11 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-03-23 09:15:11 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-03-23 09:15:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-03-23 09:15:11 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-03-23 09:15:11 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-03-23 09:15:11 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-03-23 09:15:11 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-03-23 09:15:11 +0000"
+    },
+    "done": true
+  },
+  "betterskills:fishing_3": {
+    "criteria": {
+      "fishing_3_0": "2025-03-23 09:16:58 +0000"
+    },
+    "done": true
+  },
+  "betterskills:fishing_4": {
+    "criteria": {
+      "fishing_4_0": "2025-03-23 09:30:03 +0000"
+    },
+    "done": true
+  },
+  "betterskills:foraging_3": {
+    "criteria": {
+      "foraging_3_0": "2025-03-23 09:35:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/rotten_egg": {
+    "criteria": {
+      "bestiary": "2025-03-23 09:41:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-03-23 09:47:32 +0000"
+    },
+    "done": true
+  },
+  "betterskills:farming_1": {
+    "criteria": {
+      "farming_1_0": "2025-03-23 09:47:55 +0000"
+    },
+    "done": true
+  },
+  "betterskills:foraging_4": {
+    "criteria": {
+      "foraging_4_0": "2025-03-23 10:15:34 +0000"
+    },
+    "done": true
+  },
+  "betterskills:farming_2": {
+    "criteria": {
+      "farming_2_0": "2025-03-23 10:24:40 +0000"
     },
     "done": true
   },
@@ -5332,15 +5579,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2025-03-23 10:39:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-03-23 10:31:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-03-23 10:39:49 +0000"
     },
     "done": true
   },
@@ -5356,51 +5603,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
-      "has_iron_ore": "2025-03-23 08:38:14 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/bestiary": {
-    "criteria": {
-      "bestiary": "2025-03-23 10:58:31 +0000"
-    },
-    "done": true
-  },
-  "betterskills:foraging_4": {
-    "criteria": {
-      "foraging_4_0": "2025-03-23 10:15:34 +0000"
-    },
-    "done": true
-  },
-  "betterskills:foraging_3": {
-    "criteria": {
-      "foraging_3_0": "2025-03-23 09:35:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
-    "criteria": {
-      "has_salmon": "2025-03-23 09:12:17 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/lime_upholstered_oak_stool": {
-    "criteria": {
-      "has_oak_slab": "2025-03-23 09:15:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/melon": {
-    "criteria": {
-      "has_melon": "2025-03-23 09:04:07 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/hay_spruce_chair": {
-    "criteria": {
-      "has_hay_block": "2025-03-23 10:48:42 +0000"
+      "has_raw_copper": "2025-03-23 10:39:49 +0000"
     },
     "done": true
   },
@@ -5410,9 +5615,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/cauldron": {
+  "valhelsia_furniture:recipes/decorations/hay_warped_chair": {
     "criteria": {
-      "has_water_bucket": "2025-03-23 08:42:33 +0000"
+      "has_hay_block": "2025-03-23 10:48:42 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_birch_chair": {
+    "criteria": {
+      "has_hay_block": "2025-03-23 10:48:42 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_spruce_chair": {
+    "criteria": {
+      "has_hay_block": "2025-03-23 10:48:42 +0000"
     },
     "done": true
   },
@@ -5422,148 +5639,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2025-03-23 08:44:32 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/hay_mangrove_chair": {
     "criteria": {
       "has_hay_block": "2025-03-23 10:48:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/melon_seeds": {
-    "criteria": {
-      "has_melon": "2025-03-23 09:04:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_chestplate": "2025-03-23 08:52:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2025-03-23 08:31:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2025-03-23 08:47:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
-    "criteria": {
-      "has_iron_ore": "2025-03-23 08:38:14 +0000"
-    },
-    "done": true
-  },
-  "grimoireofgaia:main/mimic": {
-    "criteria": {
-      "kill": "2025-03-23 08:36:50 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:collect_heads": {
-    "criteria": {
-      "creeper_head": "2025-03-23 08:44:32 +0000",
-      "skeleton_skull": "2025-03-23 08:35:19 +0000"
-    },
-    "done": false
-  },
-  "valhelsia_furniture:recipes/decorations/green_upholstered_oak_stool": {
-    "criteria": {
-      "has_oak_slab": "2025-03-23 09:15:11 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/purple_upholstered_oak_stool": {
-    "criteria": {
-      "has_oak_slab": "2025-03-23 09:15:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon": {
-    "criteria": {
-      "has_salmon": "2025-03-23 09:12:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2025-03-23 09:15:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2025-03-23 10:57:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2025-03-23 08:31:19 +0000"
-    },
-    "done": true
-  },
-  "betterskills:fishing_2": {
-    "criteria": {
-      "fishing_2_0": "2025-03-23 09:11:45 +0000"
-    },
-    "done": true
-  },
-  "betterskills:fishing_1": {
-    "criteria": {
-      "fishing_1_0": "2025-03-23 09:09:02 +0000"
-    },
-    "done": true
-  },
-  "betterskills:fishing_4": {
-    "criteria": {
-      "fishing_4_0": "2025-03-23 09:30:03 +0000"
-    },
-    "done": true
-  },
-  "betterskills:fishing_3": {
-    "criteria": {
-      "fishing_3_0": "2025-03-23 09:16:58 +0000"
-    },
-    "done": true
-  },
-  "betterskills:combat_4": {
-    "criteria": {
-      "combat_4_0": "2025-03-23 08:36:43 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/emerald": {
-    "criteria": {
-      "has_emerald": "2025-03-23 10:57:26 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/bestiary": {
-    "criteria": {
-      "has_item": "2025-03-23 10:55:36 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/rotten_egg": {
-    "criteria": {
-      "bestiary": "2025-03-23 09:41:06 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/cyan_upholstered_oak_stool": {
-    "criteria": {
-      "has_oak_slab": "2025-03-23 09:15:11 +0000"
     },
     "done": true
   },
@@ -5573,105 +5651,9 @@
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/red_upholstered_oak_stool": {
-    "criteria": {
-      "has_oak_slab": "2025-03-23 09:15:11 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/explosive_charge": {
-    "criteria": {
-      "has_gunpowder": "2025-03-23 08:44:32 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/ocelot": {
-    "criteria": {
-      "has_cod": "2025-03-23 09:08:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/creeper_banner_pattern": {
-    "criteria": {
-      "has_creeper_head": "2025-03-23 08:44:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/glistering_melon_slice": {
-    "criteria": {
-      "has_melon": "2025-03-23 09:04:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
-    "criteria": {
-      "has_salmon": "2025-03-23 09:12:17 +0000"
-    },
-    "done": true
-  },
-  "morevillagers:recipes/blueprint_table": {
-    "criteria": {
-      "has_paper": "2025-03-23 08:47:36 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/melon": {
-    "criteria": {
-      "has_melon_slice": "2025-03-23 09:04:07 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/hay_crimson_chair": {
     "criteria": {
       "has_hay_block": "2025-03-23 10:48:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dripstone_block": {
-    "criteria": {
-      "has_pointed_dripstone": "2025-03-23 08:54:34 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/misc/clibano_combustion/iron_ingot_from_clibano_combusting": {
-    "criteria": {
-      "has_item": "2025-03-23 08:38:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
-    "criteria": {
-      "has_cod": "2025-03-23 09:08:24 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/graveyard_soil": {
-    "criteria": {
-      "has_item": "2025-03-23 10:55:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_paper": "2025-03-23 08:47:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/plant_seed": {
-    "criteria": {
-      "wheat": "2025-03-23 09:47:32 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_ghost": {
-    "criteria": {
-      "killed_fire_dragon": "2025-03-23 10:55:23 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/magenta_upholstered_oak_stool": {
-    "criteria": {
-      "has_oak_slab": "2025-03-23 09:15:11 +0000"
     },
     "done": true
   },
@@ -5687,33 +5669,51 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/bookshelf": {
+  "iceandfire:iceandfire/kill_ghost": {
     "criteria": {
-      "has_book": "2025-03-23 08:31:19 +0000"
+      "killed_fire_dragon": "2025-03-23 10:55:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod": {
+  "iceandfire:recipes/misc/ghost_chest": {
     "criteria": {
-      "has_cod": "2025-03-23 09:08:24 +0000"
+      "has_item": "2025-03-23 10:55:30 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tnt": {
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
     "criteria": {
-      "has_gunpowder": "2025-03-23 08:44:32 +0000"
+      "has_item": "2025-03-23 10:55:30 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+  "iceandfire:recipes/misc/bestiary": {
     "criteria": {
-      "has_raw_copper": "2025-03-23 10:39:49 +0000"
+      "has_item": "2025-03-23 10:55:36 +0000"
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/orange_upholstered_oak_stool": {
+  "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
-      "has_oak_slab": "2025-03-23 09:15:11 +0000"
+      "has_emerald": "2025-03-23 10:57:26 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald": "2025-03-23 10:57:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2025-03-23 10:58:31 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/cobblestone_golem": {
+    "criteria": {
+      "kill": "2025-03-23 10:58:42 +0000"
     },
     "done": true
   },

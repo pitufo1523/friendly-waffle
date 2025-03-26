@@ -4085,207 +4085,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_bricks": {
+  "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
-      "has_stone": "2025-03-23 10:05:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
-    "criteria": {
-      "has_gold_block": "2025-03-23 10:45:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/fishy_business": {
-    "criteria": {
-      "cod": "2025-03-23 09:09:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2025-03-23 09:09:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
-    "criteria": {
-      "has_smooth_sandstone": "2025-03-23 10:23:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_stairs": {
-    "criteria": {
-      "has_andesite": "2025-03-23 09:01:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-03-23 10:24:49 +0000"
-    },
-    "done": true
-  },
-  "grimoireofgaia:main/deathword": {
-    "criteria": {
-      "kill": "2025-03-23 08:48:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-03-23 10:05:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_slab": {
-    "criteria": {
-      "has_stone": "2025-03-23 10:05:02 +0000"
-    },
-    "done": true
-  },
-  "naturalist:recipes/food/cooked_bass": {
-    "criteria": {
-      "has_bass": "2025-03-23 09:18:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone": {
-    "criteria": {
-      "has_sandstone": "2025-03-23 10:24:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2025-03-23 08:30:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-03-23 10:05:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2025-03-23 10:26:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_button": {
-    "criteria": {
-      "has_stone": "2025-03-23 10:05:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
-    "criteria": {
-      "has_smooth_sandstone": "2025-03-23 10:23:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_pressure_plate": {
-    "criteria": {
-      "has_stone": "2025-03-23 10:05:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
-    "criteria": {
-      "has_cut_sandstone": "2025-03-23 10:24:53 +0000"
-    },
-    "done": true
-  },
-  "betterskills:farming_3": {
-    "criteria": {
-      "farming_3_0": "2025-03-23 09:50:11 +0000"
-    },
-    "done": true
-  },
-  "betterskills:farming_1": {
-    "criteria": {
-      "farming_1_0": "2025-03-23 09:45:57 +0000"
-    },
-    "done": true
-  },
-  "betterskills:farming_2": {
-    "criteria": {
-      "farming_2_0": "2025-03-23 09:47:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_stairs": {
-    "criteria": {
-      "has_sandstone": "2025-03-23 10:24:49 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/tame_cockatrice": {
-    "criteria": {
-      "tame_rat": "2025-03-23 10:35:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-03-23 08:39:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-03-23 10:35:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-03-23 10:24:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-03-23 10:24:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-03-23 09:01:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
-    "criteria": {
-      "has_salmon": "2025-03-23 09:12:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-03-23 10:24:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-03-23 10:24:49 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/food/gold_pile": {
-    "criteria": {
-      "has_item": "2025-03-23 08:30:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brick": {
-    "criteria": {
-      "has_clay_ball": "2025-03-23 10:26:14 +0000"
+      "has_gravel": "2025-03-23 08:22:38 +0000"
     },
     "done": true
   },
@@ -4295,189 +4097,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/cauldron": {
+  "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
-      "has_water_bucket": "2025-03-23 08:37:38 +0000"
-    },
-    "done": true
-  },
-  "graveyard:graveyard/kill_graveyard_mob": {
-    "criteria": {
-      "ghoul": "2025-03-23 08:54:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-03-23 09:01:28 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/misc/blacksmith_gavel_head": {
-    "criteria": {
-      "has_clay_ball": "2025-03-23 10:26:14 +0000"
-    },
-    "done": true
-  },
-  "naturalist:recipes/naturalist/glow_goop": {
-    "criteria": {
-      "has_glow_berries": "2025-03-23 10:48:03 +0000"
-    },
-    "done": true
-  },
-  "naturalist:recipes/naturalist/bug_net": {
-    "criteria": {
-      "has_bamboo": "2025-03-23 09:21:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs": {
-    "criteria": {
-      "has_stone": "2025-03-23 10:05:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coarse_dirt": {
-    "criteria": {
-      "has_gravel": "2025-03-23 08:22:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_slab": {
-    "criteria": {
-      "has_sandstone": "2025-03-23 10:24:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_chestplate": "2025-03-23 08:51:50 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:katana": {
-    "criteria": {
-      "has_katana": "2025-03-23 08:47:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2025-03-23 09:39:43 +0000"
-    },
-    "done": true
-  },
-  "grimoireofgaia:main/bone_knight": {
-    "criteria": {
-      "kill": "2025-03-23 08:37:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone": {
-    "criteria": {
-      "has_sandstone": "2025-03-23 10:24:49 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:collect_heads": {
-    "criteria": {
-      "skeleton_skull": "2025-03-23 08:50:41 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2025-03-23 08:30:46 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/sandstone": {
-    "criteria": {
-      "has_sandstone": "2025-03-23 10:24:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon": {
-    "criteria": {
-      "has_salmon": "2025-03-23 09:12:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-03-23 09:01:28 +0000"
-    },
-    "done": true
-  },
-  "grimoireofgaia:main/werecat": {
-    "criteria": {
-      "kill": "2025-03-23 10:56:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-03-23 09:01:28 +0000"
-    },
-    "done": true
-  },
-  "betterskills:fishing_2": {
-    "criteria": {
-      "fishing_2_0": "2025-03-23 09:12:18 +0000"
-    },
-    "done": true
-  },
-  "betterskills:fishing_1": {
-    "criteria": {
-      "fishing_1_0": "2025-03-23 09:10:07 +0000"
-    },
-    "done": true
-  },
-  "betterskills:fishing_4": {
-    "criteria": {
-      "fishing_4_0": "2025-03-23 09:30:29 +0000"
-    },
-    "done": true
-  },
-  "betterskills:fishing_3": {
-    "criteria": {
-      "fishing_3_0": "2025-03-23 09:21:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-03-23 10:24:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stonecutter": {
-    "criteria": {
-      "has_stone": "2025-03-23 10:05:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
-    "criteria": {
-      "has_cut_sandstone": "2025-03-23 10:24:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone": {
-    "criteria": {
-      "has_stone": "2025-03-23 10:05:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-03-23 09:01:28 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/ocelot": {
-    "criteria": {
-      "has_cod": "2025-03-23 09:09:54 +0000"
+      "has_spider_eye": "2025-03-23 08:29:57 +0000"
     },
     "done": true
   },
@@ -4487,75 +4109,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+  "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
-      "has_stone": "2025-03-23 10:05:02 +0000"
+      "has_gold_nugget": "2025-03-23 08:30:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+  "iceandfire:recipes/food/gold_pile": {
     "criteria": {
-      "has_stone": "2025-03-23 10:05:02 +0000"
+      "has_item": "2025-03-23 08:30:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
-      "has_smooth_sandstone": "2025-03-23 10:23:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-03-23 09:01:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-03-23 10:05:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
-    "criteria": {
-      "has_salmon": "2025-03-23 09:12:00 +0000"
-    },
-    "done": true
-  },
-  "morevillagers:recipes/blueprint_table": {
-    "criteria": {
-      "has_paper": "2025-03-23 09:39:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2025-03-23 08:29:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-03-23 10:05:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
-    "criteria": {
-      "has_smooth_sandstone": "2025-03-23 10:23:59 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/enderman": {
-    "criteria": {
-      "has_ender_pearl": "2025-03-23 09:57:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite": {
-    "criteria": {
-      "has_andesite": "2025-03-23 09:01:28 +0000"
+      "has_gold_nugget": "2025-03-23 08:30:46 +0000"
     },
     "done": true
   },
@@ -4565,9 +4133,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+  "minecraft:recipes/brewing/cauldron": {
     "criteria": {
-      "has_stone": "2025-03-23 10:05:02 +0000"
+      "has_water_bucket": "2025-03-23 08:37:38 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/bone_knight": {
+    "criteria": {
+      "kill": "2025-03-23 08:37:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-03-23 08:39:00 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:katana": {
+    "criteria": {
+      "has_katana": "2025-03-23 08:47:48 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/deathword": {
+    "criteria": {
+      "kill": "2025-03-23 08:48:17 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:collect_heads": {
+    "criteria": {
+      "skeleton_skull": "2025-03-23 08:50:41 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-03-23 08:51:50 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "ghoul": "2025-03-23 08:54:03 +0000"
     },
     "done": true
   },
@@ -4577,27 +4187,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+  "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
-      "has_cod": "2025-03-23 09:09:54 +0000"
+      "has_andesite": "2025-03-23 09:01:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cartography_table": {
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
-      "has_paper": "2025-03-23 09:39:43 +0000"
+      "has_andesite": "2025-03-23 09:01:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/stick_from_bamboo_item": {
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
-      "has_bamboo": "2025-03-23 09:21:32 +0000"
+      "has_andesite": "2025-03-23 09:01:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/sandstone_wall": {
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
-      "has_sandstone": "2025-03-23 10:24:49 +0000"
+      "has_andesite": "2025-03-23 09:01:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-23 09:01:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-23 09:01:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-23 09:01:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-03-23 09:01:28 +0000"
     },
     "done": true
   },
@@ -4613,9 +4247,87 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2025-03-23 09:09:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-03-23 09:09:54 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2025-03-23 09:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-03-23 09:09:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-03-23 09:09:54 +0000"
+    },
+    "done": true
+  },
+  "betterskills:fishing_1": {
+    "criteria": {
+      "fishing_1_0": "2025-03-23 09:10:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-03-23 09:12:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-03-23 09:12:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-03-23 09:12:00 +0000"
+    },
+    "done": true
+  },
+  "betterskills:fishing_2": {
+    "criteria": {
+      "fishing_2_0": "2025-03-23 09:12:18 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_bass": {
+    "criteria": {
+      "has_bass": "2025-03-23 09:18:29 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/bug_net": {
+    "criteria": {
+      "has_bamboo": "2025-03-23 09:21:32 +0000"
+    },
+    "done": true
+  },
+  "betterskills:fishing_3": {
+    "criteria": {
+      "fishing_3_0": "2025-03-23 09:21:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-03-23 09:21:32 +0000"
     },
     "done": true
   },
@@ -4628,6 +4340,294 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-03-23 09:21:32 +0000"
+    },
+    "done": true
+  },
+  "betterskills:fishing_4": {
+    "criteria": {
+      "fishing_4_0": "2025-03-23 09:30:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-03-23 09:39:43 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/blueprint_table": {
+    "criteria": {
+      "has_paper": "2025-03-23 09:39:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-03-23 09:39:43 +0000"
+    },
+    "done": true
+  },
+  "betterskills:farming_1": {
+    "criteria": {
+      "farming_1_0": "2025-03-23 09:45:57 +0000"
+    },
+    "done": true
+  },
+  "betterskills:farming_2": {
+    "criteria": {
+      "farming_2_0": "2025-03-23 09:47:26 +0000"
+    },
+    "done": true
+  },
+  "betterskills:farming_3": {
+    "criteria": {
+      "farming_3_0": "2025-03-23 09:50:11 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-03-23 09:57:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-03-23 10:05:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-23 10:05:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-03-23 10:05:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-23 10:05:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-03-23 10:05:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-03-23 10:05:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-03-23 10:05:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-03-23 10:05:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-03-23 10:05:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-23 10:05:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-23 10:05:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-23 10:05:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-23 10:05:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-23 10:05:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-03-23 10:23:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-03-23 10:23:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-03-23 10:23:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-03-23 10:23:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-23 10:24:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-03-23 10:24:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-03-23 10:24:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-23 10:24:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-23 10:24:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-23 10:24:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-23 10:24:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-03-23 10:24:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-03-23 10:24:49 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-03-23 10:24:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-23 10:24:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-03-23 10:24:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-03-23 10:24:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-03-23 10:24:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-03-23 10:26:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-03-23 10:26:14 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/blacksmith_gavel_head": {
+    "criteria": {
+      "has_clay_ball": "2025-03-23 10:26:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/tame_cockatrice": {
+    "criteria": {
+      "tame_rat": "2025-03-23 10:35:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-03-23 10:35:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-03-23 10:45:48 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/glow_goop": {
+    "criteria": {
+      "has_glow_berries": "2025-03-23 10:48:03 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/werecat": {
+    "criteria": {
+      "kill": "2025-03-23 10:56:17 +0000"
     },
     "done": true
   },

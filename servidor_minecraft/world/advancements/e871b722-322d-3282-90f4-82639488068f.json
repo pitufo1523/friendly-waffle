@@ -1,0 +1,604 @@
+{
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_jungle_chair": {
+    "criteria": {
+      "has_jungle_planks": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_scythe": {
+    "criteria": {
+      "has_wood": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:root": {
+    "criteria": {
+      "always": "2025-03-26 02:48:58 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/jungle_desk": {
+    "criteria": {
+      "has_jungle_planks": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-03-26 02:50:17 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_jungle_chair": {
+    "criteria": {
+      "has_jungle_planks": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_jungle_chair": {
+    "criteria": {
+      "has_jungle_planks": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-03-26 02:49:30 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_spear": {
+    "criteria": {
+      "has_wood": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/wooden_basic_shield": {
+    "criteria": {
+      "has_planks": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/jungle_chair": {
+    "criteria": {
+      "has_jungle_planks": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-03-26 02:48:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_egg": {
+    "criteria": {
+      "has_eggs": "2025-03-26 02:48:58 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/jungle_table": {
+    "criteria": {
+      "has_jungle_planks": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_saber": {
+    "criteria": {
+      "has_wood": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_javelin": {
+    "criteria": {
+      "has_wood": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "seadwellers:adv_root": {
+    "criteria": {
+      "adv_root": "2025-03-26 02:48:58 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_quarterstaff": {
+    "criteria": {
+      "has_wood": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_jungle_chair": {
+    "criteria": {
+      "has_jungle_planks": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_club": {
+    "criteria": {
+      "has_wood_log": "2025-03-26 02:50:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-03-26 02:48:58 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_jungle_chair": {
+    "criteria": {
+      "has_jungle_planks": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_jungle_chair": {
+    "criteria": {
+      "has_jungle_planks": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/iron_ingot_from_clibano_combusting_raw_iron": {
+    "criteria": {
+      "has_item": "2025-03-26 02:49:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_upholstered_jungle_chair": {
+    "criteria": {
+      "has_jungle_planks": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_warhammer": {
+    "criteria": {
+      "has_wood": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_upholstered_jungle_chair": {
+    "criteria": {
+      "has_jungle_planks": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_nugget": "2025-03-26 02:49:34 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_jungle_chair": {
+    "criteria": {
+      "has_jungle_planks": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_greatsword": {
+    "criteria": {
+      "has_wood": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-03-26 02:50:17 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_parrying_dagger": {
+    "criteria": {
+      "has_wood": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_rapier": {
+    "criteria": {
+      "has_wood": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_upholstered_jungle_chair": {
+    "criteria": {
+      "has_jungle_planks": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_boomerang": {
+    "criteria": {
+      "has_wood": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_jungle_chair": {
+    "criteria": {
+      "has_jungle_planks": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_throwing_knife": {
+    "criteria": {
+      "has_wood": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "iter_rpg:iter_root": {
+    "criteria": {
+      "iter_root_0": "2025-03-26 02:48:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-03-26 02:49:30 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_flanged_mace": {
+    "criteria": {
+      "has_wood": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_jungle_chair": {
+    "criteria": {
+      "has_jungle_planks": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/root": {
+    "criteria": {
+      "join": "2025-03-26 02:48:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-03-26 02:49:34 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_longbow": {
+    "criteria": {
+      "has_wood": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_jungle_chair": {
+    "criteria": {
+      "has_jungle_planks": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_glaive": {
+    "criteria": {
+      "has_wood": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "orcz:orczchallenge": {
+    "criteria": {
+      "orczchallenge": "2025-03-26 02:48:58 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_jungle_chair": {
+    "criteria": {
+      "has_jungle_planks": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_lance": {
+    "criteria": {
+      "has_wood": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-03-26 02:49:12 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_longsword": {
+    "criteria": {
+      "has_wood": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_jungle_chair": {
+    "criteria": {
+      "has_jungle_planks": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_jungle_chair": {
+    "criteria": {
+      "has_jungle_planks": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/wooden_tower_shield": {
+    "criteria": {
+      "has_planks": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_pike": {
+    "criteria": {
+      "has_wood": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_nugget": "2025-03-26 02:49:34 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_halberd": {
+    "criteria": {
+      "has_wood": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_jungle_chair": {
+    "criteria": {
+      "has_jungle_planks": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/earplugs": {
+    "criteria": {
+      "has_item": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "eeeabsmobs:eeeabsmobs/root": {
+    "criteria": {
+      "requirement": "2025-03-26 02:48:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-03-26 02:49:12 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_katana": {
+    "criteria": {
+      "has_wood": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_jungle_chair": {
+    "criteria": {
+      "has_jungle_planks": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-03-26 02:48:58 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_battleaxe": {
+    "criteria": {
+      "has_wood": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_upholstered_jungle_chair": {
+    "criteria": {
+      "has_jungle_planks": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_jungle_chair": {
+    "criteria": {
+      "has_jungle_planks": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_jungle_chair": {
+    "criteria": {
+      "has_jungle_planks": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_jungle_chair": {
+    "criteria": {
+      "has_jungle_planks": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_battle_hammer": {
+    "criteria": {
+      "has_wood": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/tools/wooden_blacksmith_gavel": {
+    "criteria": {
+      "has_planks": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_jungle_chair": {
+    "criteria": {
+      "has_jungle_planks": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/jungle_desk_drawer": {
+    "criteria": {
+      "has_jungle_planks": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-03-26 02:50:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-03-26 02:49:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_jungle_chair": {
+    "criteria": {
+      "has_jungle_planks": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_jungle_chair": {
+    "criteria": {
+      "has_jungle_planks": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_dagger": {
+    "criteria": {
+      "has_wood": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_jungle_chair": {
+    "criteria": {
+      "has_jungle_planks": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_jungle_chair": {
+    "criteria": {
+      "has_jungle_planks": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_upholstered_jungle_chair": {
+    "criteria": {
+      "has_jungle_planks": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_heavy_crossbow": {
+    "criteria": {
+      "has_wood": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_jungle_chair": {
+    "criteria": {
+      "has_jungle_planks": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:sparse_jungle": "2025-03-26 02:48:58 +0000",
+      "minecraft:plains": "2025-03-26 02:50:21 +0000"
+    },
+    "done": false
+  },
+  "spartanweaponry:recipes/wooden_tomahawk": {
+    "criteria": {
+      "has_wood": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_jungle_chair": {
+    "criteria": {
+      "has_jungle_planks": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_upholstered_jungle_chair": {
+    "criteria": {
+      "has_jungle_planks": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_jungle_chair": {
+    "criteria": {
+      "has_jungle_planks": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_jungle_chair": {
+    "criteria": {
+      "has_jungle_planks": "2025-03-26 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
